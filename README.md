@@ -1,7 +1,7 @@
 # movies-library
 
 <div align="center">
-  <img width="150px" src="https://cdn-icons-png.flaticon.com/512/2503/2503529.png"/>
+  <img width="90px" src="https://cdn-icons-png.flaticon.com/512/2503/2503529.png"/>
 </div>
 <div align="center">
   <p>Project with React, consuming the TMDB API (films), using hooks and React Router, created with Vite.</p>
