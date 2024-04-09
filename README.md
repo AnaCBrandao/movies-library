@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <p>Project with React, consuming the TMDB API (films), using hooks and React Router, created with Vite.</p>
-  <img src=""/>
+  <img src="https://media.discordapp.net/attachments/767910421025521665/1227404555281633350/image.png?ex=66284892&is=6615d392&hm=dd4bb8e6431c49e97030a9c9b887acdd8d2b058b71641bf5dbded25f6e0f8795&=&format=webp&quality=lossless&width=1027&height=559"/>
 </div>
 
 ## Features
